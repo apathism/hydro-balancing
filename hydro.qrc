@@ -1,0 +1,15 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+	<qresource>
+		<file>pics/logo.jpg</file>
+		<file>pics/good.png</file>
+		<file>pics/bad.png</file>
+		<file>pics/add.png</file>
+		<file>pics/remove.png</file>
+		<file>pics/save.png</file>
+		<file>pics/table-new.png</file>
+		<file>pics/table-next.png</file>
+		<file>pics/table-save.png</file>
+	</qresource>
+</RCC>
+
